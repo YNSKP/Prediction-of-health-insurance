@@ -1,6 +1,6 @@
 ---
 title: "Stat_632_project"
-author: "Poornima Yedidi/Pratiksha Gadhe/Yashi Agarwal"
+author: "Poornima Yedidi"
 date: "2023-04-27"
 output: pdf_document
 ---
